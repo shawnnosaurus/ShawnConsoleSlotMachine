@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34018.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SlotMachine", "SlotMachine.csproj", "{06483CB8-E2BA-4ADE-AF83-F7AC8C0ACFE1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F001E51B-987C-4CFE-BB84-A1F76D276381}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlotMachine.Tests", "SlotMachine.Tests\SlotMachine.Tests.csproj", "{7C0D98B8-C100-4D99-896D-4BDA9C65435B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{06483CB8-E2BA-4ADE-AF83-F7AC8C0ACFE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06483CB8-E2BA-4ADE-AF83-F7AC8C0ACFE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06483CB8-E2BA-4ADE-AF83-F7AC8C0ACFE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06483CB8-E2BA-4ADE-AF83-F7AC8C0ACFE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C0D98B8-C100-4D99-896D-4BDA9C65435B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C0D98B8-C100-4D99-896D-4BDA9C65435B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C0D98B8-C100-4D99-896D-4BDA9C65435B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C0D98B8-C100-4D99-896D-4BDA9C65435B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDE36793-C83C-4693-889A-8E235CEEFD3A}
+	EndGlobalSection
+EndGlobal
